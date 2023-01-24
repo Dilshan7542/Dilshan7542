@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilshan Maduranga</h1>
+
+<img align="left" alt="Coding" width="400" src="https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/327206897_895717664888027_1326250386028650856_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=KeDzliDnx1sAX9pHnlp&_nc_ht=scontent-ams2-1.xx&oh=00_AfDdxc07s1brXSxDw2QW4OVjH8kFbCkbyiyEt98gOODJKw&oe=63D4351B">
 <h3 align="center">I’m a Software Engineer Undergraduate Living in Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/327206897_895717664888027_1326250386028650856_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=KeDzliDnx1sAX9pHnlp&_nc_ht=scontent-ams2-1.xx&oh=00_AfDdxc07s1brXSxDw2QW4OVjH8kFbCkbyiyEt98gOODJKw&oe=63D4351B">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
