@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dilshan Maduranga</h1>
-<h3 align="center">I’m a Software Engineer Undergraduate Living in Sri Lanka</h3>
 <img align="center" alt="Coding" width="100%" height="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 <h3 align="center">I’m a Software Engineer Undergraduate Living in Sri Lanka</h3>
 <p align="left">
