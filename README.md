@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilshan Maduranga</h1>
 
-<h3 align="center">I’m a Software Engineer Undergraduate Living in Sri Lanka</h3>
+<h3 align="center">I’m a Software Engineer From Sri Lanka</h3>
 <p align="left">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan7542&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan7542" /> </p>
